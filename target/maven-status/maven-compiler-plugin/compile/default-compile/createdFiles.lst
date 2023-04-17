@@ -1,0 +1,5 @@
+PageObjects\RegisterPage.class
+BasePackage\BaseTest.class
+BasePackage\BasePage.class
+PageObjects\HomePageBuggy.class
+PageObjects\LoginPage.class
